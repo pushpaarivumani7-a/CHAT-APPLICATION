@@ -17,3 +17,8 @@ The frontend was designed to include an input field for typing messages and a me
 
 This real-time chat application has a wide range of real-world applications. It can be used in customer support systems to allow users to chat live with representatives, in educational platforms for teacher-student communication, in social media for group messaging, and even in multiplayer games for player coordination. The project is lightweight, fast, and cross-platform, making it suitable for integration into larger systems. Additionally, it serves as a foundational project that can be extended with advanced features such as user authentication, private messaging, chat rooms, emojis, file sharing, and database integration for storing chat history.
 One of the major advantages of this project is its simplicity and scalability. It effectively demonstrates how a lightweight architecture using WebSockets can provide real-time communication capabilities. The application is highly responsive, requires minimal server resources, and is easy to deploy. Furthermore, it reinforces core web development concepts such as client-server architecture, asynchronous event handling, and live UI updates. In conclusion, this Real-Time Chat Application not only provides a functional and interactive communication tool but also serves as an excellent learning project for understanding modern web technologies and building scalable, real-time web applications.
+
+#OUTPUT  
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eb2c8872-11de-44de-b108-c4e2f69ef0af" />
+
